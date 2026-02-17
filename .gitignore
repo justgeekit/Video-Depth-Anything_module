@@ -1,0 +1,9 @@
+.vscode/
+.claude/
+outputs
+uploads
+checkpoints
+__pycache__
+*/__pycache__
+*.pyc
+gradio*
